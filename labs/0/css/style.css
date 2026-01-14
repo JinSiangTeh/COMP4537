@@ -1,1 +1,25 @@
+/*Style of the message*/
+#message {
+    font-size: 20px;
+    margin-top: 0.5em;
+}
 
+/*Style of the input boxes*/
+#countInput {
+    padding: 0.4em;
+    width: 12em;
+}
+
+/*Style of the go button*/
+#goBtn {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+    margin-left: 0.5em;
+}
+
+/*Style of the memory button*/
+.memory-btn {
+    width: 10em;
+    height: 5em;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
